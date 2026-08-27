@@ -1,0 +1,16 @@
+customer_id,customer_name,gender,age,city,region
+1,Rahul Sharma,Male,25,Delhi,North
+2,Priya Verma,Female,32,Mumbai,West
+3,Amit Kumar,Male,41,Chandigarh,North
+4,Neha Singh,Female,28,Bangalore,South
+5,Rohit Mehta,Male,35,Pune,West
+6,Sneha Gupta,Female,24,Delhi,North
+7,Vikas Yadav,Male,45,Jaipur,North
+8,Anjali Kapoor,Female,30,Hyderabad,South
+9,Karan Malhotra,Male,38,Mumbai,West
+10,Pooja Sharma,Female,27,Chennai,South
+11,Arjun Patel,Male,29,Ahmedabad,West
+12,Simran Kaur,Female,36,Amritsar,North
+13,Manish Jain,Male,43,Delhi,North
+14,Riya Kapoor,Female,31,Bangalore,South
+15,Suresh Kumar,Male,52,Pune,West
