@@ -1,6 +1,6 @@
 # Retail Sales & Customer Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes retail sales and customer data using **MySQL**. The goal is to explore sales performance, customer behavior, product performance, regional trends, and profitability through SQL queries.
 
@@ -15,7 +15,7 @@ The analysis includes **40 SQL business questions** covering basic to advanced S
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```text
 retail-sales-customer-analytics/
@@ -35,7 +35,7 @@ retail-sales-customer-analytics/
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **MySQL**
 * **SQL**
@@ -43,7 +43,7 @@ retail-sales-customer-analytics/
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### 1. Customers
 
@@ -125,7 +125,7 @@ order_details
 
 ---
 
-## 📊 Sales Definition
+##  Sales Definition
 
 For this project:
 
@@ -135,7 +135,7 @@ The `discount` column is available in the dataset, but total sales in this analy
 
 ---
 
-## 🔍 Business Questions Analyzed
+##  Business Questions Analyzed
 
 ### Sales & Performance
 
@@ -191,7 +191,7 @@ The `discount` column is available in the dataset, but total sales in this analy
 
 ---
 
-## 🧠 SQL Concepts Demonstrated
+##  SQL Concepts Demonstrated
 
 This project demonstrates practical use of:
 
@@ -224,7 +224,7 @@ This project demonstrates practical use of:
 
 ---
 
-## 📁 Files
+##  Files
 
 ### `01_database_setup.sql`
 
@@ -262,7 +262,7 @@ Contains the CSV versions of the four database tables:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone the repository
 
@@ -296,7 +296,7 @@ Run the queries individually to explore the analysis.
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of this project is to demonstrate practical SQL skills by transforming relational retail data into meaningful business insights.
 
@@ -312,7 +312,7 @@ The project focuses on answering common business questions related to:
 
 ---
 
-## 📚 Key Learning Outcomes
+##  Key Learning Outcomes
 
 Through this project, I practiced:
 
@@ -328,7 +328,7 @@ Through this project, I practiced:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Jyoti Soni**
 
